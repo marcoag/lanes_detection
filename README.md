@@ -6,25 +6,25 @@ This is the presentation of the first course in computer vision for self driving
 
 ### Option 1: execute remotely (easier option)
 
-[lanesdetection.marcogg.com](lanesdetection.marcogg.com)
+[lanesdetection.marcogg.com](http://lanesdetection.marcogg.com)
 
 ### Option 2: execte locally (for the more experience ones)
 
 1. Install conda, see its [documentation](https://conda.io/docs/user-guide/install/index.html)
-1. Clone this repo using git
-1. Create a new conda environment  
+2. Clone this repo using git
+3. Create a new conda environment  
 
 ```
 $ conda env create -n lanedetection -f binder/environment.yml
 ```
 
-1. Execute the jupyter notebook
+4. Execute the jupyter notebook
 
 ```
 $ jupyter notebook
 ```
 
-1. Open the url shown in the console with your favourite browser
+5. Open the url shown in the console with your favourite browser
 
 ### Option 3: checkout the notebook (with no option to execute the code)
 
