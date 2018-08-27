@@ -56,15 +56,8 @@ dependencies:
   - jinja2=2.10=py36_0
   - jpeg=9b=h024ee3a_2
   - jsonschema=2.6.0=py36_0
-  - jupyter=1.0.0=py36_4
-  - jupyter_client=5.2.3=py36_0
-  - jupyter_console=5.2.0=py36_1
-  - jupyter_core=4.4.0=py36_0
-  - kiwisolver=1.0.1=py36hf484d3e_0
   - libedit=3.1.20170329=h6b74fdf_2
   - libffi=3.2.1=hd88cf55_4
-  - libgcc-ng=7.2.0=hdf63c60_3
-  - libgfortran-ng=7.2.0=hdf63c60_3
   - libglu=9.0.0=hf484d3e_1
   - libopencv=3.4.1=h8fa1ad8_3
   - libopus=1.2.1=hb9ed12e_0
@@ -110,7 +103,6 @@ dependencies:
   - pygments=2.2.0=py36_0
   - pyopenssl=18.0.0=py36_0
   - pyparsing=2.2.0=py36_1
-  - pyqt=5.9.2=py36h22d08a2_0
   - pysocks=1.6.8=py36_0
   - python=3.6.6=hc3d631a_0
   - python-dateutil=2.7.3=py36_0
@@ -143,3 +135,5 @@ dependencies:
   - zlib=1.2.11=ha838bed_2
   - zope=1.0=py36_0
   - zope.interface=4.5.0=py36h14c3975_0
+  - pip:
+    - jupyter-contrib-nbextensions
