@@ -60,12 +60,10 @@ body {
   text-transform: uppercase; }
 
 .reveal h2 {
-  text-align: center;
   font-size: 1.6em; 
-  text-transform: uppercase; }
+}
 
 .reveal h3 {
-  text-align: center;
   font-size: 1.3em; }
 
 .reveal h4 {
@@ -380,4 +378,7 @@ body {
 
 .output_subarea {
     text-align: center;
+}
+.text_cell_render {
+    color: #fff;
 }
